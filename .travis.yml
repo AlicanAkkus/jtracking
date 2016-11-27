@@ -8,3 +8,6 @@ branches:
 notifications:
   email:
   - alican.akkus94@gmail.com
+deploy:
+  provider: heroku
+  api_key: 2f5e1a1a-ed31-425a-8540-83eceee246f8
